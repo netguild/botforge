@@ -1,2 +1,2 @@
-# botcraft
+# botforge
 Platform-agnostic chatbot framework.

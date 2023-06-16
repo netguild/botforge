@@ -1,5 +1,5 @@
 {
-  "name": "botcraft",
+  "name": "botforge",
   "version": "0.0.0",
   "description": "Platform-agnostic chatbot framework.",
   "main": "index.js",
