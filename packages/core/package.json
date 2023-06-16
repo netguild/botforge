@@ -1,0 +1,19 @@
+{
+  "name": "botcraft",
+  "version": "0.0.0",
+  "description": "Platform-agnostic chatbot framework.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Berezovskiy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodebears/botcraft.git",
+    "directory": "packages/core"
+  }
+}
